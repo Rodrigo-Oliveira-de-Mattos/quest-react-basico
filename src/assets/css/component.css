@@ -1,0 +1,11 @@
+.text{
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.text h1{
+    text-transform: uppercase;
+}
+
